@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Function.iml" filepath="$PROJECT_DIR$/.idea/Function.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProglangFunction.iml" filepath="$PROJECT_DIR$/ProglangFunction.iml" />
     </modules>
   </component>
 </project>

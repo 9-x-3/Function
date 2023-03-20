@@ -12,6 +12,8 @@ public class Four {
         System.out.println("charge of" + 18 + " is " + charge(18));
         System.out.println("charge of" + 20 + " is " + charge(20));
 
+
+
     }
 
     private static int charge(int one) {
